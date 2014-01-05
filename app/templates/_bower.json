@@ -1,0 +1,11 @@
+{
+  "name": "package",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "skeleton": "*",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2"
+  }
+}
+
