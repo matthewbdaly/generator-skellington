@@ -1,9 +1,14 @@
 {
   "name": "generator-skellington",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A Yeoman generator for a Skeleton web page, with automated FTP deployment",
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "scaffold",
+    "framework",
+    "component",
+    "front-end",
+    "app"
   ],
   "homepage": "https://github.com/matthewbdaly/generator-skellington",
   "bugs": "https://github.com/matthewbdaly/generator-skellington/issues",
