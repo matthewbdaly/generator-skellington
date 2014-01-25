@@ -1,6 +1,6 @@
 {
   "name": "generator-skellington",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "A Yeoman generator for a Skeleton web page, with automated FTP deployment",
   "keywords": [
     "yeoman-generator",

@@ -124,4 +124,8 @@ module.exports = function (grunt) {
         'connect',
         'watch'
     ]);
+
+    grunt.registerTask('default', [
+        'build'
+    ]);
 };
