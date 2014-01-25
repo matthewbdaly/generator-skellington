@@ -33,3 +33,15 @@ The following third-party libraries are included:
 * Modernizr
 
 If you're conversant with Grunt and Bower, you should have no difficulty adding additional libraries if required.
+
+Subgenerators
+-------------
+
+The following subgenerators are available:
+
+* `page` - Generates a new page for you. Call it with `yo skellington:page pagename` and it will create the file `app/pagename.html`
+
+License
+-------
+
+MIT

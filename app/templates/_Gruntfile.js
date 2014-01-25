@@ -6,7 +6,7 @@ module.exports = function (grunt) {
             dist: {
                 cwd: 'app',
                 src: [
-                    'index.html',
+                    '*.html',
                     'images/*'
                 ],
                 dest: 'dist',
@@ -41,7 +41,7 @@ module.exports = function (grunt) {
                 'app/scripts/main.js'
             ]
         },
- 
+
         uglify: {
             dist: {
                 src: [
