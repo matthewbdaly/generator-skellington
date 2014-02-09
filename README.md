@@ -1,7 +1,7 @@
 generator-skellington
 =====================
 
-A Yeoman generator for a Skeleton web page, with automated FTP deployment. Lets you quickly start work on a Skeleton-based website, and automates away minifying and deployment, so you can get on with making your awesome responsive website.
+A Yeoman generator for a Skeleton web page, with automated FTP deployment. Lets you quickly start work on a Skeleton-based website, and automates away minifying and deploying them, so you can get on with making your awesome responsive website.
 
 Usage
 -----
